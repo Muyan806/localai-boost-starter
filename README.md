@@ -102,7 +102,7 @@ Love the starter pack? Elevate your entire local AI workflow with the **PRO Comp
 - **1-Click Master Installer** for both Windows and Mac/Linux.
 - **Lifetime Updates & Future Preset Additions**.
 
-👉 **[Get the Pro Complete Pack on Gumroad](https://localai-boost.gumroad.com/l/pro)**  
+👉 **[Get the Pro Complete Pack on Gumroad](https://localaiboost.gumroad.com/l/pro)**  
 *(Use code `BOOST20` at checkout for an instant 20% launch discount!)*
 
 ---
