@@ -2,7 +2,7 @@
 set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 echo '========================================================'
-echo '  LocalAI Boost Pack - Free Starter Edition'
+echo '  LocalAI Boost Pack - Free Starter Edition (v1.1)'
 echo '  1-Click Ollama Installer'
 echo '========================================================'
 echo ''
@@ -28,5 +28,5 @@ echo ''
 echo '========================================================'
 echo '  Installation Successful!'
 echo '  Try running: ollama run no-yap-coder'
-echo '  Upgrade to PRO: https://localai-boost.gumroad.com/l/pro'
+echo '  Upgrade to PRO: https://localaiboost.gumroad.com/l/pro'
 echo '========================================================'

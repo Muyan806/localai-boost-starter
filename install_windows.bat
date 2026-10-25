@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 echo ========================================================
-echo   LocalAI Boost Pack - Free Starter Edition
+echo   LocalAI Boost Pack - Free Starter Edition (v1.1)
 echo   1-Click Ollama Installer
 echo ========================================================
 echo.
@@ -37,6 +37,6 @@ echo     ollama run raw-brainstormer
 echo     ollama run character-soul-builder
 echo.
 echo   Ready for all 20 specialized engines?
-echo   Upgrade to PRO: https://localai-boost.gumroad.com/l/pro
+echo   Upgrade to PRO: https://localaiboost.gumroad.com/l/pro
 echo ========================================================
 pause
